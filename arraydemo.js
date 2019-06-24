@@ -15,4 +15,4 @@ arr1[pos]*12
 console.log("value found at :"+pos+" position");
 
 
-bmh bv
+
