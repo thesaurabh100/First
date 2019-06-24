@@ -1,0 +1,26 @@
+Javascript Assignments
+1. accept a string from user store it in str variable. accept another string
+from user store it in searchstr variable and find all occurances of 
+searchstr in str.
+
+2. display a form with 3 buttons
+1. change location -- onclick event change the location to http://google.com
+2. new window=  onclik of the button new window should get open and 
+display hello, how are you msg in new window.
+3. add para- onclick add a new para in a div tag. always add para at the begining
+4. remove para --- onclick it should remove one para from div tag
+
+
+
+3. create a constructor function for employee to store empno,name
+create constructor function for Salariedemployee to store salary.
+and make employee a parent of Salariedemployee
+display all properties of Salariedemployee. 
+if property is own property 
+"own property: salary  : <value>
+otherwise 
+"parent property" :empno : <value>
+parent property" : name : <value>
+
+
+
